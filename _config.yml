@@ -1,0 +1,8 @@
+title: Rajneeshverma.GitHub.io
+description: www.rajneeshverma.com
+google_analytics: 
+show_downloads: true
+theme: jekyll-theme-hacker
+
+gems:
+  - jekyll-mentions
